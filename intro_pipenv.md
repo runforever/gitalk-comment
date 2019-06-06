@@ -7,7 +7,7 @@ pipenv 使用 Pipfile 和 Pipfile.lock 作为配置文件，同时支持 Python2
 + Mac 使用 `brew install pipenv`
 + pip 使用 `pip install --user pipenv`
 
-## 制定 Python 版本
+## 指定 Python 版本
 + Python 3 `pipenv --python 3`
 + Python3.6 `pipenv --python 3.6`
 + Python 2.7.14 `pipenv --python 2.7.14`
